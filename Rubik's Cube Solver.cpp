@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 //-----------------------------------------------
-char white[9];
+char white[10];
 char red[9];
 char orange[9];
 char blue[9];
